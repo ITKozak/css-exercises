@@ -31,11 +31,11 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 ## Progress
 ### Foundations
 1. [x] CSS methods
-2. [ ] Class id selectors
-3. [ ] Grouping selectors
-4. [ ] Chaining selectors
-5. [ ] Descendant combinator
-6. [ ] Cascade fix
+2. [x] Class id selectors
+3. [x] Grouping selectors
+4. [x] Chaining selectors
+5. [x] Descendant combinator
+6. [x] Cascade fix
 ---
 ### Margin and padding
 1. [ ] Task 1

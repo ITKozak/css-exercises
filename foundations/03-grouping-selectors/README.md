@@ -15,6 +15,9 @@ This will help you further practice adding classes and using class selectors, so
 
 
 ### Self Check
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+- [ ] Does each element have a unique class name? `No, but id selector`
+- [ ] Did you use the grouping selector for styles that both elements share? `Nope, used styles for button itself`
+- [x] Did you make separate rules for the styles unique to each element?
+
+
+`Technically... It's looks the same, right? RIGHT?!`
