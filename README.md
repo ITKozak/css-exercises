@@ -38,8 +38,8 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 6. [x] Cascade fix
 ---
 ### Margin and padding
-1. [ ] Task 1
-2. [ ] Task 2
+1. [x] Task 1
+2. [x] Task 2
 ---
 ### Grid
 1. [ ] Grid layout 1
